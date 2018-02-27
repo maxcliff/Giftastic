@@ -1,4 +1,15 @@
-.container{
-    float: right;
-    position: relative;
-} 
+.page-header{
+   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+   text-align: center;
+   
+    
+   
+}
+
+#container{
+    font-size: 12px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    
+}
+
