@@ -38,7 +38,8 @@ var topics=["soccer", "football", "basketball", "lacrosse", "volleyball", "gymna
                     newGif.attr("data-still", response.data[i].images.original_still.url)
                     newGif.attr("data-animate", response.data[i].images.original.url)
                     newGif.attr("src", response.data[i].images.original_still.url)
-                    newGif.attr(response.data[i].rating)
+                    // tried to attribute the rating
+                    //newGif.attr(response.data[i].rating)
                     newGif.css("max-width", "200px")
                     newGif.addClass("gif-image")
                     $("#gifs-div").append(newGif)
