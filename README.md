@@ -1,2 +1,2 @@
 # Giftastic
-Homework 2 Week 4
+An application that allows users to pick and search for categories of gifs. Giftastic utilizes Javascript and Jquery.
